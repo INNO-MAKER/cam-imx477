@@ -1,5 +1,5 @@
 
-![IMX477 Camera Module](https://www.inno-maker.com/wp-content/uploads/2023/12/InnoMaker_12.3MP_HQ_Camera_Module_IMX477_CMOS_Sensor_Raspberry_Pi_Jetson_Nano_CS_C_Lens_Compatible_with_Raspberry_Pi_HQ_Camera_02.jpg "IMX477")
+![alt text](https://github.com/INNO-MAKER/cam-imx477/blob/main/images/477.jpg)
 
 
 ## Quick Start For Raspberry PI Series
