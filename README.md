@@ -3,6 +3,7 @@
 
 
 ## Quick Start For Raspberry PI Series
+
 #### Step1, Modify config.txt
 - sudo nano /boot/config.txt
   - For the latest version raspberry Pi OS, it should be
@@ -11,9 +12,12 @@
 #### Step2, Add below content to the last line
 - dtoverlay=imx477
 
-#### Step3, Reboot and use below command to preview
-- libcamera-hello -t 0
+#### Step3, Change camera_auto_detect=1 to
+- camera_auto_detect=0
 
+#### Step4, reboot and preview
+- libcamera-hello-t 0
+- 
 #### More information
 - [https://www.raspberrypi.com/documentation/computers/camera_softwarehtml](https://www.raspberrypi.com/documentation/computers/camera_softwarehtml)
 
